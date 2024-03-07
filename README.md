@@ -7,7 +7,7 @@ Attached please find the documents for the Module 15 Challenge:
       - The 'css' folder with the style.css file, used for formatting the map.
       - The 'js' folder with the logic.js file, used for building the map code.
 
-Note:  Part 1 is compelete for grading purposes. I am actively working on Part 2. Please grade this challenge based on the files in the 'Leaflet-Part-1' folder.
+Note:  Part 2 under construction. To add in tectonic plate mapping as a layer to view along wiith the earthquake data.
 
   - The (**incomplete**) 'Leaflet-Part-2' folder which features: 
     - The index.html file used to set up and feature the javascript code for the map.
